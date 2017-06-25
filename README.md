@@ -18,4 +18,4 @@ JPG File | [NJUXianlinMap-RGB-2017.01.jpg](https://github.com/ZihaoLu/NJUXianlin
 
 JPG File | [NJUXianlinMap-CMYK-2017.01.jpg](https://github.com/ZihaoLu/NJUXianlinMap/raw/master/NJUXianlinMap-CMYK-2017.01.jpg)
 
-![image](https://github.com/ZihaoLu/NJUXianlinMap/NJUXianlinMap-RGB-2017.01.png)
+![image](https://raw.githubusercontent.com/ZihaoLu/NJUXianlinMap/master/NJUXianlinMap-RGB-2017.01.png)
