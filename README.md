@@ -19,3 +19,5 @@ JPG File   [NJUXianlinMap-RGB-2017.01.jpg](https://github.com/ZihaoLu/NJUXianlin
 JPG File   [NJUXianlinMap-CMYK-2017.01.jpg](https://github.com/ZihaoLu/NJUXianlinMap/raw/master/NJUXianlinMap-CMYK-2017.01.jpg)
 
 ![image](https://raw.githubusercontent.com/ZihaoLu/NJUXianlinMap/master/NJUXianlinMap-RGB-2017.01.png)
+
+This work is licensed under a [MIT](https://opensource.org/licenses/mit-license.php) license.
